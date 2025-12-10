@@ -47,7 +47,7 @@ As seguintes ferramentas e IAs generativas foram usadas no processo de criação
   - CloudOps Engineer – Associate (nova)  
   - AI Practitioner  
 
-- Avatar apresentando o conteúdo de forma humanizada, clara e didática.  
+- Avatar apresentando o conteúdo de forma humanizada, clara e didática.
 
 ## 🎥 Vídeo do Projeto
 
@@ -58,6 +58,10 @@ As seguintes ferramentas e IAs generativas foram usadas no processo de criação
   &nbsp;&nbsp;
   <a href="./O Mapa da Mina das Certificações AWS As Trilhas Mais Importantes Para Começar na Nuvem.mp4" download>
     <img src="https://img.shields.io/badge/Baixar%20Vídeo-blue?style=for-the-badge&logo=cloudflare" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="./roteiro.md" target="_blank">
+    <img src="https://img.shields.io/badge/ Abrir%20Roteiro-2f2f2f?style=for-the-badge&logo=markdown&logoColor=white" />
   </a>
 </p>
 

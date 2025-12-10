@@ -1,51 +1,62 @@
-# Projeto
+# Desafio DIO: Natty-or-not 🚀
 
-## 🚀 Introdução
+# 🎬 O mapa da mina das certificações AWS: As trilhas mais importantes para começar na nuvem
 
-> Woooow! Look at this 👀
+Este projeto apresenta um vídeo-guia visual e prático com as principais trilhas de certificação da AWS, ideal para quem deseja iniciar ou direcionar sua carreira na nuvem. 
+Utilizei um **avatar virtual gerado por IA** para explicar de forma simples e objetiva conceitos, trilhas e caminhos profissionais dentro do ecossistema AWS.  
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+O objetivo é ajudar iniciantes e profissionais em transição a entenderem *por onde começar* e *qual trilha seguir* — seja Cloud, Arquitetura, Desenvolvimento, CloudOps ou IA.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+---
 
-### Objetivos
+## 🤖 Tecnologias Utilizadas  
+As seguintes ferramentas e IAs generativas foram usadas no processo de criação:
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+- **HeyGen** — responsável pela criação do avatar virtual, gravação do vídeo, edição e ajustes visuais.  
+- **ChatGPT** e **Manus** — utilizados para construção do roteiro, desenvolvimento das falas, storytelling e refinamento geral do conteúdo.  
+---
 
-### Template
+## 🧐 Processo de Criação  
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+1. **Escolha do Tema**  
+   Defini como foco apresentar as trilhas mais importantes das certificações AWS para quem está começando na nuvem.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+2. **Criação do Roteiro com IA**  
+   O roteiro foi desenvolvido com auxílio do ChatGPT e Manus, estruturando o conteúdo em um formato de vídeo curto e didático utilizando avatar.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+3. **Geração do Avatar**  
+   O avatar foi criado no **HeyGen**, configurando aparência, voz, estilo e expressões faciais para manter um tom humanizado.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+4. **Produção do Vídeo**  
+   No HeyGen, carreguei o roteiro, ajustei velocidade, entonação e realizei pequenos cortes. A edição final recebeu elementos visuais inspirados no ecossistema AWS.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+5. **Publicação e Documentação**  
+   Todo o projeto foi organizado neste repositório utilizando o template da DIO, incluindo roteiro, descrição e detalhes da criação.  
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+---
 
-### Exemplos e Insigths
+## 🚀 Resultados  
+- Vídeo curto explicando as **principais trilhas de certificação AWS**, incluindo:  
+  - Cloud Practitioner  
+  - Solutions Architect – Associate  
+  - Developer – Associate  
+  - CloudOps Engineer – Associate (nova)  
+  - AI Practitioner  
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- Avatar apresentando o conteúdo de forma humanizada, clara e didática.  
+- Material ideal para iniciantes que desejam saber **qual trilha seguir na nuvem**.
 
-## Links Interessantes
+## 🎥 Vídeo do Projeto
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/HmyIKm2vl4E/maxresdefault.jpg)](https://youtu.be/HmyIKm2vl4E)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+---
+
+## 💭 Reflexão  
+Criar um conteúdo “natty or not” com IA foi uma experiência desafiadora e divertida.  
+É incrível como a IA consegue acelerar processos criativos — da escrita ao vídeo pronto — mas ainda assim exige **curadoria humana**, especialmente na narrativa, clareza e adaptação para o público certo.
+
+Esse projeto me ajudou a transformar conhecimento técnico em um formato moderno e acessível, e com certeza abriu novas ideias para produções futuras usando IA.
+
+---
+

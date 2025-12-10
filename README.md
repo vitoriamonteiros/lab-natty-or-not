@@ -2,6 +2,10 @@
 
 # 🎬 O mapa da mina das certificações AWS: As trilhas mais importantes para começar na nuvem
 
+<p align="center">
+  <img src="./gif-intro.gif" width-max="600">
+</p>
+
 Este projeto apresenta um vídeo-guia visual e prático com as principais trilhas de certificação da AWS, ideal para quem deseja iniciar ou direcionar sua carreira na nuvem. 
 Utilizei um **avatar virtual gerado por IA** para explicar de forma simples e objetiva conceitos, trilhas e caminhos profissionais dentro do ecossistema AWS.  
 
@@ -44,9 +48,18 @@ As seguintes ferramentas e IAs generativas foram usadas no processo de criação
   - AI Practitioner  
 
 - Avatar apresentando o conteúdo de forma humanizada, clara e didática.  
-- Material ideal para iniciantes que desejam saber **qual trilha seguir na nuvem**.
 
 ## 🎥 Vídeo do Projeto
+
+<p align="center">
+  <a href="https://youtu.be/HmyIKm2vl4E" target="_blank">
+    <img src="https://img.shields.io/badge/Assistir%20no%20YouTube-red?style=for-the-badge&logo=youtube" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="./O Mapa da Mina das Certificações AWS As Trilhas Mais Importantes Para Começar na Nuvem.mp4" download>
+    <img src="https://img.shields.io/badge/Baixar%20Vídeo-blue?style=for-the-badge&logo=cloudflare" />
+  </a>
+</p>
 
 [![Assista ao vídeo no YouTube](https://img.youtube.com/vi/HmyIKm2vl4E/maxresdefault.jpg)](https://youtu.be/HmyIKm2vl4E)
 
@@ -54,9 +67,22 @@ As seguintes ferramentas e IAs generativas foram usadas no processo de criação
 
 ## 💭 Reflexão  
 Criar um conteúdo “natty or not” com IA foi uma experiência desafiadora e divertida.  
-É incrível como a IA consegue acelerar processos criativos — da escrita ao vídeo pronto — mas ainda assim exige **curadoria humana**, especialmente na narrativa, clareza e adaptação para o público certo.
+É incrível como a IA consegue acelerar processos criativos, desde a escrita até o vídeo pronto, mas ainda assim exige **curadoria humana**, especialmente na narrativa, clareza e adaptação para o público certo.
 
 Esse projeto me ajudou a transformar conhecimento técnico em um formato moderno e acessível, e com certeza abriu novas ideias para produções futuras usando IA.
 
 ---
 
+
+## 📬 Quer falar comigo?
+
+Estou sempre aberta a **novas conexões**, **trocas de conhecimento** e **oportunidades** na área de tecnologia.  
+Vamos nos conectar pelo LinkedIn! 💬 
+
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/vitoriamonteiros" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Vitória%20Monteiro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a><br><br>
+  Feito com ❤️ por <strong>Vitória Monteiro</strong> 
+</p>
